@@ -1,0 +1,4 @@
+- Hai Saya Thomas Setiawan
+- Seorang murid smk biasa
+- Bersekolah di Smkn2 Karanganyar
+- Sedang menekuni ilmu pemrograman
