@@ -1,6 +1,6 @@
 <!-- Header -->
 
-Hai 👋 saya **Thomas Setiawan**
+## Hai 👋 saya **Thomas Setiawan**
 
 <!-- Deskripsi Singkat -->
 
@@ -28,4 +28,4 @@ Hai 👋 saya **Thomas Setiawan**
 
 Credit: [Hoamp](https://github.com/Hoamp)
 
-Terakhir diedit: 21/11/2022
+Terakhir diedit: 1/12/2022
