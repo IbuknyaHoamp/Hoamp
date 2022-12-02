@@ -4,11 +4,13 @@
 
 <!-- Deskripsi Singkat -->
 
+-   🎂 Berusia 16 tahun
+
 -   📚 Bersekolah di [SMKN 2 Karanganyar](http://web.smkn2kra.sch.id/)
 
 -   🌱 Hanyalah seorang **manusia biasa**
 
--   🏙 Bercita cita untuk bisa membuat **game**
+-   ✨ Bercita cita untuk bisa membuat **game**
 
 <!-- Contact -->
 <h3 align="left">Berteman ?</h3>
@@ -28,4 +30,4 @@
 
 Credit: [Hoamp](https://github.com/Hoamp)
 
-Terakhir diedit: 1/12/2022
+Terakhir diedit: 2/12/2022
