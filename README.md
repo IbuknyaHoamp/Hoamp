@@ -10,11 +10,7 @@
 
 -   🌱 Hanyalah seorang **manusia biasa**
 
-<<<<<<< HEAD
 -   🏙 Bercita cita untuk menjadi seorang **MC**
-=======
--   ✨ Bercita cita untuk bisa membuat **game**
->>>>>>> 2c1494154462fb02eed8cd407a2f35500f4676cf
 
 <!-- Contact -->
 <h3 align="left">Berteman ?</h3>
