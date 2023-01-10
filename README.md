@@ -1,14 +1,20 @@
 <!-- Header -->
 
-Hai 👋 saya **Thomas Setiawan**
+## Hai 👋 saya **Thomas Setiawan**
 
 <!-- Deskripsi Singkat -->
+
+-   🎂 Berusia 16 tahun
 
 -   📚 Bersekolah di [SMKN 2 Karanganyar](http://web.smkn2kra.sch.id/)
 
 -   🌱 Hanyalah seorang **manusia biasa**
 
+<<<<<<< HEAD
 -   🏙 Bercita cita untuk menjadi seorang **MC**
+=======
+-   ✨ Bercita cita untuk bisa membuat **game**
+>>>>>>> 2c1494154462fb02eed8cd407a2f35500f4676cf
 
 <!-- Contact -->
 <h3 align="left">Berteman ?</h3>
