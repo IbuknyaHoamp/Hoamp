@@ -15,7 +15,7 @@
 <!-- Contact -->
 <h3 align="left">Berteman ?</h3>
 <p align="left">
-<a href="https://www.facebook.com/thomas.setiawan.5895?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoamp" height="30" width="40" /></a>
+<a href="https://www.facebook.com/thomas.setiawan.5895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoamp" height="30" width="40" /></a>
 <a href="https://instagram.com/not_hoamp?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoamp" height="30" width="40" /></a>
 <a href="https://github.com/Hoamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hoamp" height="30" width="40" /></a>
 
