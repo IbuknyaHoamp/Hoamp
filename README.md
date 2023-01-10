@@ -8,7 +8,7 @@ Hai 👋 saya **Thomas Setiawan**
 
 -   🌱 Hanyalah seorang **manusia biasa**
 
--   🏙 Bercita cita untuk bisa membuat **game**
+-   🏙 Bercita cita untuk menjadi seorang **MC**
 
 <!-- Contact -->
 <h3 align="left">Berteman ?</h3>
@@ -20,7 +20,18 @@ Hai 👋 saya **Thomas Setiawan**
 <!-- Language -->
 <h3 align="left">Sedang Mempelajari</h3>  
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter4" width="40" height="40"/> </a>
+<!-- Html -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a> 
+<!-- Css -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> 
+<!-- Js -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<!-- Php -->
+</a> <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a> 
+<!-- Node -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+<!-- Laravel -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
 
 ---
 
@@ -28,4 +39,4 @@ Hai 👋 saya **Thomas Setiawan**
 
 Credit: [Hoamp](https://github.com/Hoamp)
 
-Terakhir diedit: 21/11/2022
+Terakhir diedit: 10/01/2023
