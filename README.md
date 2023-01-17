@@ -4,7 +4,7 @@
 
 <!-- Deskripsi Singkat -->
 
--   🎂 Berusia **16** tahun
+-   🎂 Berusia **16 tahun**
 
 -   📚 Bersekolah di [SMKN 2 Karanganyar](http://web.smkn2kra.sch.id/)
 
